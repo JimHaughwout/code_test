@@ -1,5 +1,6 @@
 [
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:17:53Z",
     "engineStatus":"ON",
     "gear":"1",
@@ -7,13 +8,15 @@
     "longitude":-77.092556
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:18:50Z",
     "engineStatus":"ON",
     "gear":"3",
     "latitude":38.802993,
-    "longitude":77.086848
+    "longitude":-77.086848
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:19:46Z",
     "engineStatus":"ON",
     "gear":"3",
@@ -21,6 +24,7 @@
     "longitude":-77.080711
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:20:49Z",
     "engineStatus":"ON",
     "gear":"3",
@@ -28,6 +32,7 @@
     "longitude":-77.075347
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:21:46Z",
     "engineStatus":"ON",
     "gear":"3",
@@ -35,6 +40,7 @@
     "longitude":-77.074789
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:22:42Z",
     "engineStatus":"ON",
     "gear":"3",
@@ -42,6 +48,7 @@
     "longitude":-77.070862
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:23:40Z",
     "engineStatus":"ON",
     "gear":"2",
@@ -49,6 +56,7 @@
     "longitude":-77.075154
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:24:42Z",
     "engineStatus":"ON",
     "gear":"2",
@@ -56,6 +64,7 @@
     "longitude":-77.079961
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:25:38Z",
     "engineStatus":"ON",
     "gear":"P",
@@ -63,6 +72,7 @@
     "longitude":-77.084337
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:26:40Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -70,6 +80,7 @@
     "longitude":-77.083908
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:27:36Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -77,6 +88,7 @@
     "longitude":-77.084741
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:28:38Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -84,6 +96,7 @@
     "longitude":-77.084466
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:29:35Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -91,6 +104,7 @@
     "longitude":-77.084673
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:30:33Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -98,6 +112,7 @@
     "longitude":-77.084356
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:31:34Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -105,6 +120,7 @@
     "longitude":-77.084568
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:32:32Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -112,6 +128,7 @@
     "longitude":-77.084495
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:33:29Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -119,6 +136,7 @@
     "longitude":-77.084685
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:34:31Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -126,6 +144,7 @@
     "longitude":-77.084622
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:35:34Z",
     "engineStatus":"OFF",
     "gear":"P",
@@ -133,6 +152,7 @@
     "longitude":-77.083929
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:36:32Z",
     "engineStatus":"ON",
     "gear":"3",
@@ -140,6 +160,7 @@
     "longitude":-77.083048
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:37:33Z",
     "engineStatus":"ON",
     "gear":"2",
@@ -147,6 +168,7 @@
     "longitude":-77.078458
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:38:30Z",
     "engineStatus":"ON",
     "gear":"1",
@@ -154,6 +176,7 @@
     "longitude":-77.076162
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:39:30Z",
     "engineStatus":"ON",
     "gear":"1",
@@ -161,6 +184,7 @@
     "longitude":-77.076162
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:40:31Z",
     "engineStatus":"ON",
     "gear":"3",
@@ -168,6 +192,7 @@
     "longitude":-77.075733
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:41:32Z",
     "engineStatus":"ON",
     "gear":"2",
@@ -175,6 +200,7 @@
     "longitude":-77.078099
   },
   {
+    "vehicle":"Klondike-5-3226",
     "timestampUtc":"2015-02-02T14:42:31Z",
     "engineStatus":"ON",
     "gear":"1",
