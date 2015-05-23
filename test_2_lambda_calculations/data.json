@@ -1,184 +1,210 @@
 [
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:17:53.53",
+    "timestampUtc":"2015-02-02T14:17:53Z",
+    "engineStatus":"ON",
+    "gear":"1",
     "latitude":38.803662,
-    "longitude":-77.092556,
-    "miTraversed":0.0
+    "longitude":-77.092556
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:18:56.56",
+    "timestampUtc":"2015-02-02T14:18:50Z",
+    "engineStatus":"ON",
+    "gear":"3",
     "latitude":38.802993,
-    "longitude":-77.086848,
-    "miTraversed":0.3
+    "longitude":-77.086848
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:19:54.54",
+    "timestampUtc":"2015-02-02T14:19:46Z",
+    "engineStatus":"ON",
+    "gear":"3",
     "latitude":38.802424,
-    "longitude":-77.080711,
-    "miTraversed":0.6
+    "longitude":-77.080711
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:20:56.56",
+    "timestampUtc":"2015-02-02T14:20:49Z",
+    "engineStatus":"ON",
+    "gear":"3",
     "latitude":38.801772,
-    "longitude":-77.075347,
-    "miTraversed":0.9
+    "longitude":-77.075347
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:21:58.58",
+    "timestampUtc":"2015-02-02T14:21:46Z",
+    "engineStatus":"ON",
+    "gear":"3",
     "latitude":38.803846,
-    "longitude":-77.074789,
-    "miTraversed":1.0
+    "longitude":-77.074789
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:22:55.55",
+    "timestampUtc":"2015-02-02T14:22:42Z",
+    "engineStatus":"ON",
+    "gear":"3",
     "latitude":38.806939,
-    "longitude":-77.070862,
-    "miTraversed":1.3
+    "longitude":-77.070862
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:23:57.57",
+    "timestampUtc":"2015-02-02T14:23:40Z",
+    "engineStatus":"ON",
+    "gear":"2",
     "latitude":38.806638,
-    "longitude":-77.075154,
-    "miTraversed":1.6
+    "longitude":-77.075154
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:24:52.52",
+    "timestampUtc":"2015-02-02T14:24:42Z",
+    "engineStatus":"ON",
+    "gear":"2",
     "latitude":38.807173,
-    "longitude":-77.079961,
-    "miTraversed":1.8
+    "longitude":-77.079961
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:25:55.55",
+    "timestampUtc":"2015-02-02T14:25:38Z",
+    "engineStatus":"ON",
+    "gear":"P",
     "latitude":38.808344,
-    "longitude":-77.084337,
-    "miTraversed":2.1
+    "longitude":-77.084337
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:26:59.59",
+    "timestampUtc":"2015-02-02T14:26:40Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808645,
-    "longitude":-77.083908,
-    "miTraversed":2.1
+    "longitude":-77.083908
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:28:00.00",
+    "timestampUtc":"2015-02-02T14:27:36Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808522,
-    "longitude":-77.084741,
-    "miTraversed":2.1
+    "longitude":-77.084741
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:28:58.58",
+    "timestampUtc":"2015-02-02T14:28:38Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808433,
-    "longitude":-77.084466,
-    "miTraversed":2.1
+    "longitude":-77.084466
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:30:02.02",
+    "timestampUtc":"2015-02-02T14:29:35Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808485,
-    "longitude":-77.084673,
-    "miTraversed":2.1
+    "longitude":-77.084673
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:30:58.58",
+    "timestampUtc":"2015-02-02T14:30:33Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808571,
-    "longitude":-77.084356,
-    "miTraversed":2.1
+    "longitude":-77.084356
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:32:02.02",
+    "timestampUtc":"2015-02-02T14:31:34Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808381,
-    "longitude":-77.084568,
-    "miTraversed":2.1
+    "longitude":-77.084568
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:33:03.03",
+    "timestampUtc":"2015-02-02T14:32:32Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808396,
-    "longitude":-77.084495,
-    "miTraversed":2.1
+    "longitude":-77.084495
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:33:58.58",
+    "timestampUtc":"2015-02-02T14:33:29Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808329,
-    "longitude":-77.084685,
-    "miTraversed":2.1
+    "longitude":-77.084685
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:34:56.56",
+    "timestampUtc":"2015-02-02T14:34:31Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808528,
-    "longitude":-77.084622,
-    "miTraversed":2.1
+    "longitude":-77.084622
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:35:51.51",
+    "timestampUtc":"2015-02-02T14:35:34Z",
+    "engineStatus":"OFF",
+    "gear":"P",
     "latitude":38.808327,
-    "longitude":-77.083929,
-    "miTraversed":2.1
+    "longitude":-77.083929
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:36:53.53",
+    "timestampUtc":"2015-02-02T14:36:32Z",
+    "engineStatus":"ON",
+    "gear":"3",
     "latitude":38.807608,
-    "longitude":-77.083048,
-    "miTraversed":2.4
+    "longitude":-77.083048
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:37:50.50",
+    "timestampUtc":"2015-02-02T14:37:33Z",
+    "engineStatus":"ON",
+    "gear":"2",
     "latitude":38.806956,
-    "longitude":-77.078458,
-    "miTraversed":2.7
+    "longitude":-77.078458
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:38:50.50",
+    "timestampUtc":"2015-02-02T14:38:30Z",
+    "engineStatus":"ON",
+    "gear":"1",
     "latitude":38.806722,
-    "longitude":-77.076162,
-    "miTraversed":2.7
+    "longitude":-77.076162
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:39:46.46",
+    "timestampUtc":"2015-02-02T14:39:30Z",
+    "engineStatus":"ON",
+    "gear":"1",
     "latitude":38.806721,
-    "longitude":-77.076162,
-    "miTraversed":2.7
+    "longitude":-77.076162
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:40:43.43",
+    "timestampUtc":"2015-02-02T14:40:31Z",
+    "engineStatus":"ON",
+    "gear":"3",
     "latitude":38.803745,
-    "longitude":-77.075733,
-    "miTraversed":3.0
+    "longitude":-77.075733
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:41:41.41",
+    "timestampUtc":"2015-02-02T14:41:32Z",
+    "engineStatus":"ON",
+    "gear":"2",
     "latitude":38.801999,
-    "longitude":-77.078099,
-    "miTraversed":3.1
+    "longitude":-77.078099
   },
   {
     "vehicle":"Klondike-5-3226",
-    "timestamp":"2015-02-02T09:42:45.45",
+    "timestampUtc":"2015-02-02T14:42:31Z",
+    "engineStatus":"ON",
+    "gear":"1",
     "latitude":38.801706,
-    "longitude":-77.080877,
-    "miTraversed":3.3
+    "longitude":-77.080877
   }
 ]

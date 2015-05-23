@@ -15,7 +15,7 @@
     "ipAddress":"127.0.0.1",
     "sensorType":"mk-100",
     "payloadType":"simplifiedExample",
-    "rawSensorData":" $A*X123*1422886737*ON*3*5631*38802993*77086848*$Z"
+    "rawSensorData":" $A*X123*1422886737*ON*3*5631*38802993*-77086848*$Z"
   },
   {
     "device":"X123",

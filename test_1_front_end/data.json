@@ -4,181 +4,181 @@
     "timestamp":"2015-02-02T09:17:53.53",
     "latitude":38.803662,
     "longitude":-77.092556,
-    "kmTraversed":0
+    "miTraversed":0.0
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:18:56.56",
     "latitude":38.802993,
     "longitude":-77.086848,
-    "kmTraversed":0.501361
+    "miTraversed":0.3
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:19:54.54",
     "latitude":38.802424,
     "longitude":-77.080711,
-    "kmTraversed":1.038189
+    "miTraversed":0.6
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:20:56.56",
     "latitude":38.801772,
     "longitude":-77.075347,
-    "kmTraversed":1.509733
+    "miTraversed":0.9
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:21:58.58",
     "latitude":38.803846,
     "longitude":-77.074789,
-    "kmTraversed":1.745018
+    "miTraversed":1.0
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:22:55.55",
     "latitude":38.806939,
     "longitude":-77.070862,
-    "kmTraversed":2.229015
+    "miTraversed":1.3
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:23:57.57",
     "latitude":38.806638,
     "longitude":-77.075154,
-    "kmTraversed":2.603319
+    "miTraversed":1.6
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:24:52.52",
     "latitude":38.807173,
     "longitude":-77.079961,
-    "kmTraversed":3.025064
+    "miTraversed":1.8
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:25:55.55",
     "latitude":38.808344,
     "longitude":-77.084337,
-    "kmTraversed":3.42678
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:26:59.59",
     "latitude":38.808645,
     "longitude":-77.083908,
-    "kmTraversed":3.47683
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:28:00.00",
     "latitude":38.808522,
     "longitude":-77.084741,
-    "kmTraversed":3.550461
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:28:58.58",
     "latitude":38.808433,
     "longitude":-77.084466,
-    "kmTraversed":3.57631
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:30:02.02",
     "latitude":38.808485,
     "longitude":-77.084673,
-    "kmTraversed":3.595194
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:30:58.58",
     "latitude":38.808571,
     "longitude":-77.084356,
-    "kmTraversed":3.624337
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:32:02.02",
     "latitude":38.808381,
     "longitude":-77.084568,
-    "kmTraversed":3.652336
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:33:03.03",
     "latitude":38.808396,
     "longitude":-77.084495,
-    "kmTraversed":3.658892
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:33:58.58",
     "latitude":38.808329,
     "longitude":-77.084685,
-    "kmTraversed":3.676994
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:34:56.56",
     "latitude":38.808528,
     "longitude":-77.084622,
-    "kmTraversed":3.699753
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:35:51.51",
     "latitude":38.808327,
     "longitude":-77.083929,
-    "kmTraversed":3.763949
+    "miTraversed":2.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:36:53.53",
     "latitude":38.807608,
     "longitude":-77.083048,
-    "kmTraversed":3.874523
+    "miTraversed":2.4
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:37:50.50",
     "latitude":38.806956,
     "longitude":-77.078458,
-    "kmTraversed":4.279732
+    "miTraversed":2.7
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:38:50.50",
     "latitude":38.806722,
     "longitude":-77.076162,
-    "kmTraversed":4.48085
+    "miTraversed":2.7
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:39:46.46",
     "latitude":38.806721,
     "longitude":-77.076162,
-    "kmTraversed":4.480961
+    "miTraversed":2.7
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:40:43.43",
     "latitude":38.803745,
     "longitude":-77.075733,
-    "kmTraversed":4.813427
+    "miTraversed":3.0
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:41:41.41",
     "latitude":38.801999,
     "longitude":-77.078099,
-    "kmTraversed":5.095933
+    "miTraversed":3.1
   },
   {
     "vehicle":"Klondike-5-3226",
     "timestamp":"2015-02-02T09:42:45.45",
     "latitude":38.801706,
     "longitude":-77.080877,
-    "kmTraversed":5.339433
+    "miTraversed":3.3
   }
 ]
