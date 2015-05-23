@@ -1,0 +1,236 @@
+[
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:18:07.07Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422886673*ON*1*1930*38803662*-77092556*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:19:07.07Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422886737*ON*3*5631*38802993*77086848*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:20:01.01Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422886792*ON*3*5953*38802424*-77080711*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:21:00.00Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422886851*ON*3*6114*38801772*-77075347*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:21:54.54Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422886915*ON*3*6757*38803846*-77074789*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:23:05.05Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422886976*ON*3*4344*38806939*-77070862*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:23:58.58Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887039*ON*2*3861*38806638*-77075154*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:25:07.07Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887097*ON*2*2896*38807173*-77079961*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:26:11.11Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887156*ON*P*0*38808344*-77084337*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:27:10.10Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887214*OFF*P*0*38808645*-77083908*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:28:04.04Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887271*OFF*P*0*38808522*-77084741*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:29:10.10Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887326*OFF*P*0*38808433*-77084466*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:30:03.03Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887389*OFF*P*0*38808485*-77084673*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:31:07.07Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887448*OFF*P*0*38808571*-77084356*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:32:07.07Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887513*OFF*P*0*38808381*-77084568*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:33:16.16Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887573*OFF*P*0*38808396*-77084495*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:34:18.18Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887635*OFF*P*0*38808329*-77084685*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:35:12.12Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887691*OFF*P*0*38808528*-77084622*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:36:08.08Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887754*OFF*P*0*38808327*-77083929*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:37:11.11Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887813*ON*3*4344*38807608*-77083048*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:38:06.06Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887873*ON*2*3539*38806956*-77078458*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:39:17.17Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887934*ON*1*321*38806722*-77076162*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:40:11.11Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422887990*ON*1*804*38806721*-77076162*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:41:19.19Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422888054*ON*3*7723*38803745*-77075733*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:42:18.18Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422888112*ON*2*2735*38801999*-77078099*$Z"
+  },
+  {
+    "device":"X123",
+    "receiptDateTimeUtc":"2015-02-02T14:43:13.13Z",
+    "protocol":"mqtt",
+    "ipAddress":"127.0.0.1",
+    "sensorType":"mk-100",
+    "payloadType":"simplifiedExample",
+    "rawSensorData":" $A*X123*1422888167*ON*1*482*38801706*-77080877*$Z"
+  }
+]
